@@ -1,0 +1,22 @@
+{
+  "name": "react-experiments",
+  "version": "1.0.0",
+  "description": "First tries with nodejs and react in future",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saha-dizel/React-experiments.git"
+  },
+  "author": "Alex K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saha-dizel/React-experiments/issues"
+  },
+  "homepage": "https://github.com/saha-dizel/React-experiments#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
