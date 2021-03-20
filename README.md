@@ -9,7 +9,7 @@ npm start
 ```
 
 - in reactApp/ will be all the apps I will create. Right now the list is the following:
-* testing_proc1: this is my first ever react app. You can run it by navigating into it and then running
+1. testing_proc1: this is my first ever react app. You can run it by navigating into it and then running
 
 ```
 npm start
